@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Dino Kupinic <img </h1>
+![pic no load :'(](https://ibb.co/TgrtScM)
 
 
 <hr/>
