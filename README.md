@@ -1,6 +1,7 @@
+<h1 align="center">Hi :D <img </h1>
+  
 <img align="center" src="https://i.ibb.co/bK7XZ15/sees-ORsoos-sad-no-bg.png" alt="pic no load :'(" width="200"/>
-<img
-
+  
 <hr/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=d-hain&theme=onedark_duo&border_radius=20)](https://git.io/streak-stats)
