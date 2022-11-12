@@ -1,8 +1,5 @@
 <img align="center" src="https://i.ibb.co/bK7XZ15/sees-ORsoos-sad-no-bg.png" alt="pic no load :'(" width="200"/>
-<h1 align="center">Hi , I'm Dino Kupinic <img </h1>
-
-<h3 align="center">  
-- 16 years old
+<img
 
 <hr/>
 
