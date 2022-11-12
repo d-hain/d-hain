@@ -1,5 +1,4 @@
-<h1 align="center">Hi :D <img </h1><br/>
-  
+<h1 align="center"><img </h1>
 <img align="center" src="https://i.ibb.co/bK7XZ15/sees-ORsoos-sad-no-bg.png" alt="pic no load :'(" width="200"/>
   
 <hr/>
