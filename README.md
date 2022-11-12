@@ -1,4 +1,3 @@
-![pic no load :'(](https://i.ibb.co/bK7XZ15/sees-ORsoos-sad-no-bg.png)
 <img src="https://i.ibb.co/bK7XZ15/sees-ORsoos-sad-no-bg.png" alt="pic no load :'(" width="200"/>
 
 <hr/>
