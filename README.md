@@ -7,4 +7,4 @@
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-hain&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-hain&layout=compact&theme=dark&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
