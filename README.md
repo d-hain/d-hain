@@ -3,8 +3,8 @@
   
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=d-hain&theme=onedark_duo&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=d-hain&theme=tokyonight_duo&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-hain&layout=compact&theme=dark&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-hain&layout=compact&theme=tokyonight_duo&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
