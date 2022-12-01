@@ -3,7 +3,7 @@
   
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=d-hain&theme=onedark_duo&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=d-hain&theme=onedark_duo&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 <hr/>
 
