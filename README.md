@@ -1,3 +1,4 @@
+<h1 align="center">🚨 Go visit <a href="https://doce.ddns.net">doce.ddns.net</a>. NOW 🚨</code></h1>
 <h1 align="center">I ❤ <code>Rust</code></h1>
 <p align="center"><img width=169 src="https://media.tenor.com/v1dPoOluqiwAAAAC/ferris-rust.gif"/><br />
 ᵀʰᶦˢ ᶦˢ ⁿᵒᵗ ᵉⁿᵈᵒʳˢᵉᵈ ᵇʸ ᵀʰᵉ ᴿᵘˢᵗ ᶠᵒᵘⁿᵈᵃᵗᶦᵒⁿ™</p>
