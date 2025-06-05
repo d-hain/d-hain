@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
-    🚨 Go visit <a href="https://doce.ddns.net">doce.ddns.net</a>. NOW 🚨
+    Hello, There. 👋
   </h1>
     <img align="center" width="300" src="https://media1.tenor.com/m/EscJ45yWMJAAAAAC/css-my-beloved.gif" /> <br />
     <br />
