@@ -1,5 +1,5 @@
 <a href="https://doceys.computer">
-  <img align="center" alt="doceys.computer" src="assets/website.png">
+  <img align="center" width="330" alt="doceys.computer" src="banner.png">
 </a>
 <br />
 <a align="center" href="https://github.com/d-hain">
